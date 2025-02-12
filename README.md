@@ -3,3 +3,6 @@ Brutefast is a static html form bruteforcer. Use multithreading for max velocity
 # Screenshots
 ----
 ![BruteFast](https://github.com/H4k1l/BruteFast/blob/main/images/screenshot1.png)
+# Disclaimers
+----
+The author is not responsible for any damages, misuse or illegal activities resulting from the use of this code.
