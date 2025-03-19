@@ -35,7 +35,8 @@ options:
   -ml MINLENGHT, --minlenght MINLENGHT
                         the min lenght of the bruteforcing
   -ch CHARSET, --charset CHARSET
-                        the charset for building the words 'abc123'```
+                        the charset for building the words 'abc123'
+```
 # Disclaimers
 ----
 The author is not responsible for any damages, misuse or illegal activities resulting from the use of this code.
