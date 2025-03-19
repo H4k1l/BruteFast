@@ -6,7 +6,8 @@ Brutefast is a simple and fast static html form bruteforcer. Use multithreading 
 ![BruteFast](https://github.com/H4k1l/BruteFast/blob/main/images/screenshot1.png)
 # Usage
 ----
-  ```python3 Brutefast.py -h
+  ```
+python3 Brutefast.py -h
   usage: BrutefastV2.py [-h] [-d DELAY] [-u URL] [-f FIELD] [-w WORDLIST]
                       [-c COOKIES] [-mw MAXWORKERS] [--wizard] [--pure]
                       [-mx MAXLENGHT] [-ml MINLENGHT] [-ch CHARSET]
